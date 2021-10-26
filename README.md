@@ -1,5 +1,5 @@
 # Searching Algorithms Server-Ex4
-In this exercise we are wrote a program that can solve different problems using different algorithms (search algorithms)
+Purpose of this extercise- implement a few searches algorithms, compare them (by who had the smalles run time), and using the best algorithm as the problem solver on the server side. Among this create parallel server (that can work with multiple clients), and a serial server (that can accept clients one after the other.
 
 ## Usage
 
@@ -39,7 +39,7 @@ Defines how to handle each client. Has a kind of File Manager and Solver.
 
 We used Git for this project
 
-https://github.com/NetanelTamir/Ex4.git
+https://github.com/DorinDomin/Flight-Control--Milestone-2
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
