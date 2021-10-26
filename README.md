@@ -1,4 +1,4 @@
-# Searching Algorithms Server-Ex4
+# Searching Algorithms Server
 Purpose of this extercise- implement a few searches algorithms, compare them (by who had the smalles run time), and using the best algorithm as the problem solver on the server side. Among this create parallel server (that can work with multiple clients), and a serial server (that can accept clients one after the other.
 
 ## Usage
